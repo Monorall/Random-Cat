@@ -1,0 +1,5 @@
+<div class="container">
+  <h1>Random Cat</h1>
+  <%= image_tag @image_url, id: 'cat-image' %>
+  <%= button_to "Get Another Cat", random_cat_path, method: :get, class: 'btn' %>
+</div>
