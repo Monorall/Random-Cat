@@ -31,3 +31,7 @@ Before you begin, you will need to have the following tools installed on your co
  Start the development server:
  
      rails server
+     
+     
+Finally go to http://127.0.0.1:3000/random_cat
+and enjoy the cats
