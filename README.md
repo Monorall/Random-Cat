@@ -1,24 +1,33 @@
-# README
+# Random-Cat
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app uses an API to make you look at a random cat ^-^.
 
-Things you may want to cover:
+Deploy this application on your machine and enjoy the cats
 
-* Ruby version
+# Prerequisites
 
-* System dependencies
+Before you begin, you will need to have the following tools installed on your computer:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+   * Ruby 3.1.3 or later
+   * Rails 7.0 or later
+   * Git
+   
+ # Installation
+ 
+ Follow these steps to install the application on your local machine:
+ 
+ Clone the repository:
+ 
+     git clone https://github.com/Monorall/Random-Cat.git
+     
+ Navigate to the application directory:
+ 
+     cd Random-Cat
+ 
+ Install the required gems:
+     
+     bundle install
+     
+ Start the development server:
+ 
+     rails server
