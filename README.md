@@ -8,7 +8,7 @@ Deploy this application on your machine and enjoy the cats
 
 Before you begin, you will need to have the following tools installed on your computer:
 
-   * Ruby 3.1.3 or later
+   * Ruby 3.0.2 or later
    * Rails 7.0 or later
    * Git
    
