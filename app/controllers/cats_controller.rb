@@ -5,5 +5,3 @@ class CatsController < ApplicationController
     @image_url = json[0]['url']
   end
 end
-
-git init
